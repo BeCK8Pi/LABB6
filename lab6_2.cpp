@@ -49,3 +49,4 @@ int main(){
 
     showResult(result_vec_length,result_vec_direction);
 }
+//lab6_2.cpp completed
