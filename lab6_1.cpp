@@ -19,3 +19,4 @@ int main(){
     cout << "#Odd numbers = " << odd;
     return 0;
 }
+//lab6_1.cpp completed
